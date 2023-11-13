@@ -12,9 +12,11 @@ hint: Did you try "strings"? Or open in a hex editor?
 
 -get the string (can use https://www.aperisolve.com/)
 
+![string](https://github.com/urhnh/ctfwriteup/assets/149639198/dc636ec4-0b21-4e7b-9200-ed2ec8b750ca)
+
 -go to the location
 
-![flag](https://github.com/urhnh/ctfwriteup/assets/149639198/c71b4d9f-bbda-4b47-a6ce-c4c35f70cb1d)
+![flag](https://github.com/urhnh/ctfwriteup/assets/149639198/1538d597-6e21-45b0-a9f2-e718069317dd)
 
 -download the jpg and get the string again
 
