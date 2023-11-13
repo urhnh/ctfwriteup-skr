@@ -20,4 +20,4 @@ Hint: Did you try "strings"? Or open in a hex editor?
 
 - Download the jpg and get the string again
 
-- Decode the string 3 times to get the flag
+- Decode the string 3 times with base64 to get the flag
