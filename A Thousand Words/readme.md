@@ -8,7 +8,7 @@ hint: Did you try "strings"? Or open in a hex editor?
 
 -download the jpg
 
-![flag](https://github.com/urhnh/ctfwriteup/assets/149639198/6acd38ae-16f9-4167-8ce2-f8f260cdbb65)
+![github com](https://github.com/urhnh/ctfwriteup/assets/149639198/852ed97b-41f6-47f2-9181-38cef5495d13)
 
 -get the string (can use https://www.aperisolve.com/)
 
