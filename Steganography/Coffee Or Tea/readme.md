@@ -20,4 +20,4 @@ yg budak-budak minum terus assume bukan kopi. Highly relies to other's writeup)
 
 - Determine each photo false or true
 
-- Convert binary to ascii to get flag(every 8 digits is 1 alphabet)
+- Convert binary to ascii to get flag (every 8 digits is 1 alphabet)
