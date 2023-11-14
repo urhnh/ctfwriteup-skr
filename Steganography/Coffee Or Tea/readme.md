@@ -12,7 +12,7 @@ Hint: Can text be written in number format?
 
 (Quite challenging for me huhu. Aku tak tahu biji-biji tu coffee beans rupanya,
 ingatkan air hijau tu can be considered as coffee mahal macam stabak ke rupanya tak,
-yg budak-budak minum terus assume bukan kopi. Highly relies to other's writeup)
+yg budak-budak minum terus assume bukan kopi. Highly relies to other's writeup ;)
 
 - Basic programming: False=0, True=1
 
