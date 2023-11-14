@@ -10,4 +10,4 @@ Hint: Search for the tool on Google
   
 ![hackersteg](https://github.com/urhnh/ctfwriteup/assets/149639198/9d397a07-a3c2-4f66-91f9-2cd8a1c9d1ec)
 
-- Decode image at https://futureboy.us/stegano/decinput.html to get the flag
+- Decode image at https://futureboy.us/stegano/decinput.html using password: skr to get the flag
