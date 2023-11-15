@@ -1,5 +1,7 @@
 # Challenge
 
+![challenge](https://github.com/urhnh/ctfwriteup/assets/149639198/4abc845a-959c-449f-a9d5-b57c22a141b2)
+
 ![coffee_or_tea](https://github.com/urhnh/ctfwriteup/assets/149639198/5f3b516f-7208-4a1b-9a9f-7ea205ca9aab)
 
 ![hints](https://github.com/urhnh/ctfwriteup/assets/149639198/ad8c2e28-64e4-4934-b511-04258aaa5e33)
