@@ -4,7 +4,21 @@
 
 # Solution
 
-- Solve using maths!
+- Quick refresh of coding
+
+  in order for checkPassword to return 1
+
+  - should be 14 characters
+ 
+  - skip first 2 character, should equal to cur3
+ 
+  - skip first 0 character, should equal to S3
+ 
+  - skip first 10 character, should equal to w0rd
+ 
+  - skip first 6 character, should equal to Pa$$
+ 
+- Will get pass = S3cur3Pa$$w0rd
 
 ```
 #include <stdio.h>
