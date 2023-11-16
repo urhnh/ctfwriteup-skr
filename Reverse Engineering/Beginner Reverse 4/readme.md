@@ -12,9 +12,9 @@ Hint: Keep track of the increment and decrement of i and j
 
   - should be 15 characters
  
-  - pass[i] != part1[j] (int i = 0, j = 0; i < length; i+=2,j++)
+  - pass[i] == part1[j] 	(int i = 0, j = 0; i < length; i+=2,j++)
  
-  - pass[i] != part1[j] (int i = length-2, j = 0; i > 0; i-=2,j++)
+  - pass[i] == part1[j] 	(int i = length-2, j = 0; i > 0; i-=2,j++)
 
 - Will get pass = Sup3rS3cureP455
 
