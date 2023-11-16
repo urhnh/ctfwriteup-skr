@@ -1,4 +1,4 @@
-[Beginner Reverse 2.txt](https://github.com/urhnh/ctfwriteup/files/13372813/Beginner.Reverse.2.txt)# Challenge
+# Challenge
 
 ![challenge](https://github.com/urhnh/ctfwriteup/assets/149639198/59bc45d9-2b52-4b6f-a8b0-29d556376962)
 
@@ -6,7 +6,8 @@
 
 - Solve it using maths!
 
-[Uploading Be#include <stdio.h>
+```
+#include <stdio.h>
 
 int main () {
 	char password[16];
@@ -19,4 +20,6 @@ int main () {
 	}else{
 		printf("Login failed!");
 	}
-}ginner Reverse 2.txt…]()
+}
+```
+
