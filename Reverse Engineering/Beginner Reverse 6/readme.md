@@ -10,6 +10,9 @@ in order for checkPassword to return 1
 
 - First letter is 'R' (pass[0] == 'R')
 
+![ascii table](https://github.com/urhnh/ctfwriteup/assets/149639198/4e07789c-76cb-46ee-b6e1-d8ceb2850a57)
+(Refer to decimal in above table for value for each character)
+
 - Second letter and forth are '3' (pass[1] - pass[0] == -31 || pass[1] == pass[3])
 
 - Fifth letter is 'r', third letter is 'v' (pass[4] == tolower(pass[0]) || pass[2] - pass[4] == 4)
