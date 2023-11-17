@@ -12,7 +12,7 @@ in order for checkPassword to return 1
 
 - pass[i] == correct_pass[i]-1 (int i = 0; i < length; i++)
 
-- refer to ascii table below, every char in 'BTDJJ`Qmvt`1o4' is replaced by char before it
+- refer to ascii table below, every char in ``` BTDJJ`Qmvt`1o4 ``` is replaced by char before it
 
 ![ascii table](https://github.com/urhnh/ctfwriteup/assets/149639198/4d49cc26-85b3-4560-ba87-49d0416f747e)
 
