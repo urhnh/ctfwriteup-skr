@@ -38,7 +38,7 @@ the correct passcode should have
 
 - len('2'*2)=2 so, p[2] is '4'
 
-- len('')=0 so, p[3] is '0'
+- len('')=0 so, p[3]=p[0] is 'D'
 
 - len('skrr')=4 so, p[4] is '-'
 
@@ -50,8 +50,8 @@ the correct passcode should have
 
 - len(p[1:])=8 so, p[8]='F'
 
-Will get the passcode 'D340-B33F'
+Will get the passcode 'D34D-B33F'
 
-(if you need further explanation, can try chatgpt. really helps!)
+(if you need further explanation on operations, can try chatgpt. really helps!)
 
 
