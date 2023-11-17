@@ -20,7 +20,8 @@ print("}s%{RKS si galF !edocssap tcerroC"[::-1] % p
       p[1**1337] == '3' and
       p[len('2'*2)] == '4' and
       p[3] == p[len('')] and
-      p[len('skrr')] == '-' and p[5] == 'B' and
+      p[len('skrr')] == '-' and
+      p[5] == 'B' and
       p[(len('6'*6)-5)*6] == p[1<<1337>>1337] and
       p[int(p[6])+4] == p[len(p)-3] and
       p[len(p[1:])] == 'F'
@@ -37,7 +38,7 @@ the correct passcode should have
 
 - len('2'*2)=2 so, p[2] is '4'
 
-- len('')=2 so, p[3] is '2'
+- len('')=0 so, p[3] is '0'
 
 - len('skrr')=4 so, p[4] is '-'
 
@@ -49,7 +50,7 @@ the correct passcode should have
 
 - len(p[1:])=8 so, p[8]='F'
 
-Will get the passcode 'D342-B33F'
+Will get the passcode 'D340-B33F'
 
 (if you need further explanation, can try chatgpt. really helps!)
 
