@@ -4,10 +4,6 @@
 
 # Solution
 
-- Solve it using maths!
-
-  pass=(2008+666)/2
-
 ```
 #include <stdio.h>
 
@@ -24,4 +20,9 @@ int main () {
 	}
 }
 ```
+
+- Solve it using maths!
+
+  pass=(2008+666)/2
+
 
