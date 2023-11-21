@@ -4,7 +4,7 @@
 
 Hint: Don't waste your math skills!
 
-# Solution
+# Solution (unfinished)
 
 ```
 #!/usr/bin/env python3
