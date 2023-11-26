@@ -2,6 +2,8 @@
 
 Hello hello there!
 
-A newbie here. I'm just starting to learn ctf. If you notice my writeup is confusing or mixed up, do let me know! Hope it helps others.
+A newbie here. I'm just starting to learn ctf. If you notice my writeup is confusing or mixed up, do let me know!
 
---ummeh
+Hope can it help others.
+
+-ummeh
